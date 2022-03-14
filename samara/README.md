@@ -1,8 +1,3 @@
-# Assignment D
-
-For an assignment requiring the use of a variety of tests and consisting of one program with associated classes that have header files and source files.
-<br>
-The source files must be saved in a directory named <code>src/</code>, the header files must be stored in a directory named <code>include/</code>, and the test files (using gtest) must be stored in a directory named <code>test/</code>.
-<br>The file <code>main.cpp</code> for running the project must be stored in <code>src/project/</code> and the <code>main.cpp</code> for running the gtesting must be in <code>test/</code>.
-<br>The <code>Makefile</code> contains targets for unit testing (gtest), static testing, style check, coverage, and doxygen.</li>
-1
+#This project was written by SamB KierraG and AlexS in Practical Software Development at the University of Lethbridge
+#The goal of this assignment was to use proper Software design and structure ultilizing patterns and conventions.
+#If you get Stuck on any of the riddles consider googling them, however we chose to make them fairly easy.
