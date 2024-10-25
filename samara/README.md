@@ -5,4 +5,4 @@
 - Programming Concepts: Object-oriented programming, design patterns, encapsulation, inheritance, and polymorphism
 - Testing Framework: Unit Testing (gtest)
   
-#If you get stuck on any of the riddles consider googling them, however we chose to make them fairly easy.
+#If you get stuck on any of the riddles consider googling them, however I chose to make them fairly easy.
